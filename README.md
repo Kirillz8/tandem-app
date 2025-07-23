@@ -14,13 +14,13 @@
 ## Как запустить проект локально
 
 1. Клонируйте репозиторий:
-   git clone git@github.com:Kirillz8/tandem-app.git
-   cd tandem-app
+   - git clone git@github.com:Kirillz8/tandem-app.git
+   - cd tandem-app
    
 3. Установите зависимости:
-   yarn install
+   - yarn install
 
 4. Запустите приложение:
-    yarn dev
+    - yarn dev
 
 #### Автор: Кирилл Аканин
