@@ -17,10 +17,10 @@
    git clone git@github.com:Kirillz8/tandem-app.git
    cd tandem-app
    
-2. Установите зависимости:
+3. Установите зависимости:
    yarn install
 
-3. Запустите приложение:
+4. Запустите приложение:
     yarn dev
 
 #### Автор: Кирилл Аканин
