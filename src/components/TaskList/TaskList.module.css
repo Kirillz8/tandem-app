@@ -1,0 +1,9 @@
+.taskList {
+    list-style: none;
+    padding: 0;
+}
+.taskListEmpty {
+    color: #888;
+    text-align: center;
+    margin-top: 16px;
+}

@@ -1,0 +1,12 @@
+.taskForm {
+    display: flex;
+    margin-bottom: 16px;
+}
+.taskFormInput {
+    flex: 1;
+    margin-right: 8px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
